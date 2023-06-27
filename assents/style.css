@@ -1,0 +1,18 @@
+.row{
+    background-color: blueviolet;
+}
+.text-pink{
+    color: #f953a6;
+}
+.bg-pink{
+    background-color: #d63384;
+}
+.btn-purple{
+    background-color: blueviolet;
+    color: white;
+
+}
+.btn-purple:hover{
+    background-color:  #d63384;
+    color: black;
+}
